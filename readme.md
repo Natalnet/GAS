@@ -14,7 +14,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Lideres de Desenvolvimento
 
-* Marcos Paulo
+* Marcus Paulo
 
 ## Lideres de Gestão
 
