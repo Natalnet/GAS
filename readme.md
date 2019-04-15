@@ -32,4 +32,4 @@ O Objetivo é formação de recursos humanos nas áreas de:
 - PostSql
 - MongoDB
 - Flutter
-_ Ionic 
+- Ionic 
