@@ -23,6 +23,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Tecnologias 
 
+- Git e GitHub
 - NodeJs
 - Java (Spring MVC e Grails)
 - Python (Django e Jupyter)
