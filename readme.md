@@ -1,7 +1,6 @@
-# GAS - Grupo de Desenvolvimento de Aplicações e Startups
+# GAS - Grupo de Desenvolvimento de Aplicativos e Sistemas
 
 O GAS surge dentro do contexto dos laboratorios Natalnet, sediado no TEAM e em parceria com o LAR.
-O GAS é um grupo irmão do [GIM](https://github.com/natalnet/gim), são grupo complementares dentro da UFRN.
  
 O Objetivo é formação de recursos humanos nas áreas de:
 * Desenvolvimento de Sistemas e Aplicativos (incluindo programação para backend, frontend, aplicativos móveis)
