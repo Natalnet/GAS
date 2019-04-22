@@ -17,7 +17,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Marcus Paulo
 
 ## Lideres de Gestão
-* A definir 
+* Marcus Paulo 
 
 ## Apresentação 
 
